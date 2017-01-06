@@ -1,4 +1,12 @@
 # RowsterTowster
+
+## This project is closed
+Rowan has passed away.  My thoughts are with his family and friends. :broken_heart:
+
+
+---
+
+
 For details on who Rowan is and why this project exists, please visit the [website](https://thoughtarray.github.io/RowsterTowster/).  This code repository is simply the public information website.  There is a swath of technology supporting the actual management of the Minecraft server.
 
 ## How it works

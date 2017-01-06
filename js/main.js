@@ -64,7 +64,7 @@ let tick = function()
   htmlWorldCountdown.find('.secs').html(zeroPad(world.rem.get('seconds')))
 }
 
-tick()
-var intervalID = setInterval(tick, 1000)
+// tick()
+// var intervalID = setInterval(tick, 1000)
 
 })()
